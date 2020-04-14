@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Kevin/CLionProjects/zoomjoystrong/library.c
+library.h
+C:/Users/Kevin/CLionProjects/zoomjoystrong/library.h
+stdio.h
+-
+
+C:/Users/Kevin/CLionProjects/zoomjoystrong/library.h
+
